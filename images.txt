@@ -63,4 +63,7 @@
 #container-registry.oracle.com/database/free:latest
 #oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
 
-unclecode/crawl4ai:latest
+#unclecode/crawl4ai:latest
+rabbitmq:3.7.3-management
+postgres:15-alpine
+valkey/valkey:latest
