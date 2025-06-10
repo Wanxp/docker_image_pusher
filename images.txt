@@ -14,7 +14,7 @@
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.11
 #langgenius/dify-plugin-daemon:0.0.9-local
-#ubuntu/squid:latest
+#ubuntu/squid:latestdocker.io/
 #certbot/certbot
 #nginx:latest
 #semitechnologies/weaviate:1.19.0
@@ -67,5 +67,7 @@
 #rabbitmq:3.7.3-management
 #postgres:15-alpine
 #valkey/valkey:latest
-golang:latest
-oven/bun:latest
+#golang:latest
+#oven/bun:latest
+
+mitmproxy/mitmproxy:11.0
