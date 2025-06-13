@@ -70,4 +70,5 @@
 #golang:latest
 #oven/bun:latest
 
-mitmproxy/mitmproxy:11.0
+#mitmproxy/mitmproxy:11.0
+kenvix/docker-atrust-autologin
