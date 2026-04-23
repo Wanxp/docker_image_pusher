@@ -71,4 +71,5 @@
 #oven/bun:latest
 
 #mitmproxy/mitmproxy:11.0
-kenvix/docker-atrust-autologin
+#kenvix/docker-atrust-autologin
+ghcr.io/owo-network/deeplx:latest
